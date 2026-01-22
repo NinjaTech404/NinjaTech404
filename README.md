@@ -1,16 +1,20 @@
-## Hi there 👋
+**KADHIM SHAKIR**  
+Computer Science Undergraduate | Software Development & Engineering  
+Al-Qadisiyah University | Expected Graduation 2028
 
-<!--
-**NinjaTech404/NinjaTech404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Focus:**  
+Software Development | Graphic Design | Web & CLI Tools
 
-Here are some ideas to get you started:
+💻 **Tech Stack:**  
+C/C++ | Rust | Python | JavaScript | React | Node.js | Docker | Git | Firebase | Adobe Suite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projects:**  
+- **Paradox Platform** – Knowledge-sharing hub (React/Firebase)  
+- **CLI Tools Suite** – Encryption & productivity tools (Rust/C++)  
+- **Web Store Platform** – E-commerce platform (React/Node.js)
+
+📈 **Stats:**  
+15+ Projects | 3 Languages | 3 Internships | GPA: 3.8/4.0
+
+🌐 **Contact:**  
+ninjatech404@gmail.com | [GitHub](github.html) | [LinkedIn](linkedin.html) | ninjatech404.github.io
