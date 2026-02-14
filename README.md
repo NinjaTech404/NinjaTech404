@@ -17,4 +17,4 @@ C/C++ | Rust | Python | JavaScript | React | Node.js | Docker | Git | Firebase |
 15+ Projects | 3 Languages | 3 Internships | GPA: 3.8/4.0
 
 🌐 **Contact:**  
-ninjatech404@gmail.com | [GitHub](github.html) | [LinkedIn](linkedin.html) | ninjatech404.github.io
+kadhimshakir@yahoo.com | [GitHub](github.html) | [LinkedIn](linkedin.html) | ninjatech404.github.io
